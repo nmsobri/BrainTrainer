@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="select_answer">Select Your Answer</string>
+    <string name="correct_answer">Correct answer :)</string>
+    <string name="wrong_answer">Wrong answer :(</string>
+    <string name="play_again">Play Again</string>
+</resources>
